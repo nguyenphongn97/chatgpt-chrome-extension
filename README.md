@@ -16,4 +16,4 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ## OutPut
-![Uploading Screenshot 2024-07-02 at 12.15.33.png…]()
+![alt text](https://github.com/nguyenphongn97/chatgpt-chrome-extension/assets/173677656/ad50ab2d-e465-484a-b3d7-bb1e7781180b)
